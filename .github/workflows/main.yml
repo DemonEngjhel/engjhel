@@ -24,4 +24,4 @@ jobs:
 
     - name: Run bot script
       run: |
-        python gxf.py
+        python gfx.py
